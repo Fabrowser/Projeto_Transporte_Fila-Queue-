@@ -1,0 +1,17 @@
+C:\Users\fabri\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.exe
+C:\Users\fabri\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.deps.json
+C:\Users\fabri\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.runtimeconfig.json
+C:\Users\fabri\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.dll
+C:\Users\fabri\source\repos\Transporte\Transporte\bin\Debug\net6.0-windows\Transporte.pdb
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.AssemblyReference.cache
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.Form1.resources
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfoInputs.cache
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.AssemblyInfo.cs
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.dll
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\refint\Transporte.dll
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.pdb
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\Transporte.genruntimeconfig.cache
+C:\Users\fabri\source\repos\Transporte\Transporte\obj\Debug\net6.0-windows\ref\Transporte.dll
